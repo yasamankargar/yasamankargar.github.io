@@ -6,7 +6,7 @@ subtitle: Ph.D. Candidate in Materials Science & Engineering, <a href='https://e
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: IMG_9027.jpg
   image_circular: false
   more_info: >
     <p>St. Louis, MO</p>
