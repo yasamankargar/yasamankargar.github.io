@@ -7,13 +7,13 @@ first_name: Yasaman
 middle_name:
 last_name: Kargar
 contact_note: >
-  Email is the best way to reach me.
+  Email is the best way to reach me: k.yasaman@wustl.edu or yasamankargar17@gmail.com.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Yasaman Kargar, Ph.D. candidate in Biomedical Engineering at Washington University in St. Louis, building hiPS-CM micro-heart tissue models of inherited cardiomyopathy.
+  Yasaman Kargar Gaz Kooh, Ph.D. candidate in Materials Science and Engineering at Washington University in St. Louis, studying how mechanical cues shape heart development and disease using hiPS-CM micro-heart tissues.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: Yasaman Kargar, cardiac tissue engineering, hiPSC-derived cardiomyocytes, cardiomyopathy, desmin-related cardiomyopathy, mechanobiology
+keywords: Yasaman Kargar, Yasaman Kargar Gaz Kooh, cardiac tissue engineering, hiPSC-derived cardiomyocytes, cardiomyopathy, desmin-related cardiomyopathy, mechanobiology
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🫀 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 apple_touch_icon: # image name in /assets/img/ (or a rooted path / absolute URL) used for iOS home-screen bookmarks; needs a real 180x180 PNG, since Safari ignores the emoji favicon above. Left empty, iOS falls back to a screenshot of the page.
@@ -355,7 +355,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Kargar]
+  last_name: [Kargar Gaz Kooh]
   first_name: [Yasaman, Y.]
 
   style: apa
