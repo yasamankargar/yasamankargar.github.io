@@ -31,4 +31,4 @@ My broader interests include cardiac tissue engineering, mechanobiology, cellula
 
 Before my Ph.D., I received my B.Sc. in Materials Science and Engineering from Sharif University of Technology. I also received my M.Sc. in Materials Science and Engineering from WashU in 2024.
 
-Outside of research, I enjoy running, reading, traveling, playing tennis, and film.
+Outside of research, I enjoy running, reading, traveling, playing tennis, and watching films.
