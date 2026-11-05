@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-I ranked **795th out of about 200,000 competitors (top 0.5%)** in Iran's national university entrance exam (Konkour).
+I ranked **795th (top 0.5%)** in Iran's national university entrance exam (Konkour).
