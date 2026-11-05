@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-I received an **ICTS Just-In-Time (JIT) Core Usage Funding Award** from the Institute of Clinical and Translational Sciences at WashU as Co-Investigator (PI: Prof. Nathaniel Huebsch) for the project *Identifying a Transcriptomic Signature of Desmin Related Cardiomyopathy Using iPSC Cardiomyocytes*.
+I received an **ICTS Just-In-Time (JIT) Core Usage Funding Award** (JIT1412) from the Institute of Clinical and Translational Sciences at WashU as Co-Investigator (PI: Prof. Nathaniel Huebsch) for the project *Identifying a Transcriptomic Signature of Desmin Related Cardiomyopathy Using iPSC Cardiomyocytes*.
