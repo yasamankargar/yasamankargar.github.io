@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-I was selected to give a public talk, *Mechanical forces enable human stem cell modeling of protein aggregation cardiomyopathies*, at the **14th Annual Cardiovascular Research Day**, hosted by the Center for Cardiovascular Research and the Cardiovascular Division at WashU Medicine, on December 2, 2026.
+I was selected to give a public talk, *Mechanical forces enable human stem cell modeling of protein aggregation cardiomyopathy*, at the **14th Annual Cardiovascular Research Day**, hosted by the Center for Cardiovascular Research and the Cardiovascular Division at WashU Medicine, on December 2, 2026.
